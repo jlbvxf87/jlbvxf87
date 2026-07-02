@@ -24,7 +24,7 @@ I build AI-powered business systems. Not demos, not experiments. Production-orie
 | [**Ads API Agent (Clayton)**](https://github.com/jlbvxf87/ads-api-agent) | Facebook and Google Ads agent that reads and writes live campaign data through API |
 | [**Demand Engine**](https://github.com/jlbvxf87/demand-engine-ad-intelligence) | Scrapes Facebook Ad Library, decodes winning creative patterns, generates new ad concepts |
 | [**Seelr Analytics Dashboard**](https://github.com/jlbvxf87/seelr-analytics-dashboard) | Real-time dashboard tracking ad spend, leads, and conversion rates across paid media for Seelr — with AI anomaly detection and live Supabase data |
-| [**RevOps AI Workflow**](https://github.com/jlbvxf87/revops-ai-workflow-demo) | AI-connected revenue operations workflow connecting lead management, campaign, analytics, and automation |
+| [**GTM Stack**](https://github.com/jlbvxf87/gtm-stack) | AI-connected revenue operations workflow connecting lead management, campaign, analytics, and automation |
 | [**Glide Advisor Acquisition**](https://github.com/jlbvxf87/glide-advisor-acquisition) | Advisor acquisition system for Glide — lead capture, intake scoring, and automated follow-up pipeline |
 | [**Careplug Pay**](https://github.com/jlbvxf87/careplug-pay) | Payment and billing infrastructure for Careplug — connecting provider intake to payment collection workflows |
 
