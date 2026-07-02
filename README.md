@@ -54,8 +54,8 @@ _Some production client work is private. Sanitized public demos are linked above
 
 ## Contact
 
-- **Email:** [your email here]
-- **LinkedIn:** [your LinkedIn URL here]
+- **Email:** jaronlbaston87@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/jaronbaston/
 - **Resume:** [link to resume or portfolio]
 
 ---
